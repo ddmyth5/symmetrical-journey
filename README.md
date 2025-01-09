@@ -1,1 +1,1 @@
-# symmetrical-journey
+#read.md
